@@ -1,2 +1,2 @@
 # Salad-detector-with-TensorFlow-Lite-Model-Maker
-A model that detects ingredients in images of meals.
+A machine learning model that detects ingredients in images of meals.
